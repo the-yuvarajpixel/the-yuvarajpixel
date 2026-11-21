@@ -9,6 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-the--yuvarajpixel-181717?logo=github&logoColor=white)](https://github.com/the-yuvarajpixel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthuyuvaraj-m-10349a421)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:yuvimyuvarajyuva@gmail.com)
+[![Instagram](https://www.instagram.com/snazzyyuvaraj?hvrq=NjIzaWl5YTV1cGcx)
 
 </div>
 
@@ -58,6 +59,7 @@ A project repository containing an AI Studio application with a Node.js setup an
 - **LinkedIn:** [Muthuyuvaraj M](https://www.linkedin.com/in/muthuyuvaraj-m-10349a421)
 - **GitHub:** [the-yuvarajpixel](https://github.com/the-yuvarajpixel)
 - **Email:** [yuvimyuvarajyuva@gmail.com](mailto:yuvimyuvarajyuva@gmail.com)
+- **Instagram:**[snazzyyuvaraj](https://www.instagram.com/snazzyyuvaraj?hvrq=NjIzaWl5YTV1cGcx)
 
 ---
 
