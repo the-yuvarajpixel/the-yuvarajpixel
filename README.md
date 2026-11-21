@@ -9,7 +9,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-the--yuvarajpixel-181717?logo=github&logoColor=white)](https://github.com/the-yuvarajpixel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muthuyuvaraj-m-10349a421)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?logo=gmail&logoColor=white)](mailto:yuvimyuvarajyuva@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Contact-EA4335?logo=Instagram&logoColor=pink)](https://www.instagram.com/snazzyyuvaraj?hvrq=NjIzaWl5YTV1cGcx)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-EA4335?logo=Instagram&logoColor=pink)](https://www.instagram.com/snazzyyuvaraj?hvrq=NjIzaWl5YTV1cGcx)
 
 </div>
 
